@@ -519,6 +519,8 @@ plt.show()
 
 [菜菜的机器学习sklearn课堂](https://study.163.com/course/introduction/1006536008.htm)
 
+[（四）矩阵的特征分解与奇异值分解(SVD)](https://zhuanlan.zhihu.com/p/31386807)
+
 **图像压缩**：[奇异值的物理意义是什么？强大的矩阵奇异值分解(SVD)及其应用](https://blog.csdn.net/c2a2o2/article/details/70159320)
 
 **有干货：**[奇异值分解(SVD)详解及其应用](https://blog.csdn.net/shenziheng1/article/details/52916278)
